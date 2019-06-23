@@ -1,0 +1,126 @@
+/*===== Common Class =====*/
+ 
+body {
+	padding:0  !important ;
+	margin: 0  !important;
+}
+html { 
+	-webkit-font-smoothing: antialiased; 
+}
+img{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*{
+	padding: 0;
+	margin: 0;
+	outline: none;
+	word-wrap: break-word;
+}
+h1, h2, h3, h4, h5, h6, p {
+	padding: 0;
+	margin: 0;
+	font-weight: normal;
+}
+/*
+ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+ul li {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+*/
+
+h2{
+   font-family: 'ralewaybold'; 
+    color: #373737;
+}
+p{
+     font-family: 'ralewayregular';
+    margin: 8px 0 20px;
+    color: #6e6e6e;
+    font-size: 16px;
+}
+header{
+    background: #fff;
+   
+  box-shadow: -1px 0px 12px 0px rgba(0, 0, 0, 0.4);
+  
+
+}
+.container{
+    width: 1170px;
+    
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+
+.logo_img{
+    margin: 20px 0;
+	border-right: 2px solid #f2f2f2;
+	text-align: center;
+}
+.policy h1{
+    color: #37BAD0;
+     font-family: 'ralewaybold';
+    margin: 42px 0;
+}
+.logotext
+{
+	color: #37BAD0;
+}
+
+.contain{
+    padding: 20px;
+    
+}
+
+/*
+.contain p{
+    color: #6e6e6e;
+    
+}
+.info{
+    
+}
+*/
+.info h2{
+      
+    font-size: 20px;
+    color: #525252;
+   
+}
+
+.info h3{
+    font-size: 18px;
+}
+.info  p{
+    
+}
+
+.info ul li{
+    list-style: disc;
+    margin: 0 0 0 50px;
+   color: #6e6e6e;
+    font-family: 'ralewayregular';
+    font-size: 15px;
+    
+    
+}
+.info ul li span{
+    padding: 0 0 0 20px;
+}
+.footer {
+    text-align: center;
+    background: #525252;
+}
+.footer p{
+    margin: 10px 0;
+    color: #fff;
+}

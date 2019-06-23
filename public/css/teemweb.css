@@ -1,0 +1,59 @@
+.table a i {
+	font-size: 16px;
+	display: block;
+	color: #676a6c;
+	text-align: center
+}
+
+
+/* user datatable*/
+
+
+/*#usertable_processing,#admintable_processing {
+ 
+    top: 0%;
+    left: 45%;
+    width: 200px;
+    margin-left: -100px;
+    margin-top: -45px;
+    text-align: center;
+    padding: 1em 0;
+    font-size: 14px;
+} */
+
+.panel {
+	background: none;
+	border: none;
+}
+
+.actionTag {
+	text-align: center;
+}
+
+.activeaccount {
+	color: green;
+}
+
+.deactive {
+	color: red;
+}
+
+.cellwidth {
+	width: 43%
+}
+
+#map {
+	width: 100%;
+	height: 300px;
+	align-content: center;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.center-text {
+	text-align: center;
+	vertical-align: middle !important;
+}
+.middle-text {
+	vertical-align: middle !important;	
+}

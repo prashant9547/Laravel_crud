@@ -1,0 +1,87 @@
+.table a i {
+    font-size: 16px;
+    display: block;
+    color: #676a6c;
+}
+
+.trial {
+    color: #30a788 !important;
+}
+
+.monthly {
+    color: #008a00;
+}
+
+.yearly {
+    color: #cc9900;
+}
+
+.cancel {
+    color: #E75268 !important;
+}
+
+.trialover {
+    color: #002d6f;
+}
+
+.trialbtn,
+.trialbtn:hover,
+.trialbtn:active,
+.trialbtn:focus {
+    background: #00cc00 !important;
+    border-color: #00cc00;
+}
+
+.monthlybtn,
+.monthlybtn:hover,
+.monthlybtn:active,
+.monthlybtn:focus {
+    background: #008a00 !important;
+    border-color: #008a00;
+}
+
+.yearlybtn,
+.yearlybtn:hover,
+.yearlybtn:active,
+.yearlybtn:focus {
+    background: #cc9900 !important;
+    border-color: #cc9900;
+}
+
+.cancelbtn,
+.cancelbtn:hover,
+.cancelbtn:active,
+.cancelbtn:focus {
+    background: #ff6666 !important;
+    border-color: #ff6666;
+}
+
+.trialoverbtn,
+.trialoverbtn:hover,
+.trialoverbtn:active,
+.trialoverbtn:focus {
+    background: #002d6f !important;
+    border-color: #002d6f;
+}
+
+.textarea {
+    height: 500px;
+    width: 60%;
+    max-width: 100%;
+    overflow: auto;
+    line-height: 2;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #555;
+    resize: none;
+    border: 1px solid #ccc;
+}
+
+.textarea:focus {
+    outline: none !important;
+}
+
+.actionTag {
+	text-align: center;
+}

@@ -1,0 +1,18 @@
+label.error{
+    color:#a94442!Important;
+}
+.form-control.error {
+    border: 1px solid #cc5965;
+  }
+.startext-muted{
+    color: #777;
+    opacity :0.7;
+}
+.egtext-muted{
+    color: #777;
+    opacity :0.7;
+}
+.starerrtext-muted{
+    color: #777;
+    opacity :0.7;
+}
